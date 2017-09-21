@@ -49,6 +49,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <assimp/DefaultLogger.hpp>
 #include <assimp/ai_assert.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 #ifdef __unix__
 #include <sys/param.h>

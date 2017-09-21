@@ -56,7 +56,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <assimp/defs.h>
 #include "StringComparison.h"
 
-#include <string.h>
+#include <strings.h>
 #include <stdint.h>
 #include <string>
 
